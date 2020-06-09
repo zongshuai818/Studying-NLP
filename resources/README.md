@@ -2,7 +2,7 @@
 
 **1 [中文NLP处理的包收藏](https://github.com/fighting41love/funNLP)**
 
-<img src=./img/fun-nlp.jpg width=70% align=center />
+<img src=./img/fun-nlp.jpg width=70% div align=center />
 
 
 
