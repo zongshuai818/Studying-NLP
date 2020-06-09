@@ -1,10 +1,11 @@
-## 语言模型
+## Basic Embedding Model
 
-基础的语言模型
+| MODEL           | Description       | PAPER                                                        |
+| :-------------- | ----------------- | ------------------------------------------------------------ |
+| [NNLM](nnlm.py) | Predict Next Word | [A Neural Probabilistic Language Model(2003)](http://www.jmlr.org/papers/volume3/bengio03a/bengio03a.pdf) |
 
-| Section       | Description                |
-| ------------- | -------------------------- |
-| [NNLM](#NNLM) | How to install the package |
 
-### NNLM
 
+### [Reference](https://github.com/graykode/nlp-tutorial)
+
+* [ nlp-tutorial](https://github.com/graykode/nlp-tutorial)
