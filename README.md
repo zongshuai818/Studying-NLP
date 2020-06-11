@@ -1,6 +1,6 @@
 # Studying-NLP
 1. [Language Model](language-model)
-   1. [NNLM](./language-model/NNLM-Demo.ipynb)
+   1. [NNLM](language-model/NNLM-Demo.ipynb)
    2. Word2Vec
    3. FastText（todo）
    4. Glove（todo）
