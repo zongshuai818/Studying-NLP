@@ -7,7 +7,7 @@
 
 ### TODO
 
-* [FastText(Application Level)](https://github.com/graykode/nlp-tutorial/tree/master/1-3.FastText)
+* FastText 
 * Glove
 * WordRank
 
