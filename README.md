@@ -12,7 +12,7 @@
    - GPT（自）
    - BERT（tutorial）
 
-3. [Chinese Task](chinese-task) （todo）
+3. [中文任务](chinese-task) （todo）
 
    - 文本分类
      - fastText-新闻文本分类（兜哥，finished）
