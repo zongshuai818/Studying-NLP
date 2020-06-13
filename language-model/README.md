@@ -10,6 +10,7 @@
 * FastText 
 * Glove
 * WordRank
+* ELMO
 
 ### Reference
 
